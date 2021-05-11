@@ -90,12 +90,12 @@
 
 - 사용자 순서도
 
-<img src = "C:\Users\user\Desktop\image\flowchart1.png" width="60%">
+<img src = ".\image\flowchart1.png" width="60%">
 
 
 - 개발자 순서도
 
-<img src = "C:\Users\user\Desktop\image\flowchart2.png" width="90%">
+<img src = ".\image\flowchart2.png" width="90%">
 
 
 
@@ -108,31 +108,31 @@
 
 <b>1) 시작 화면</b>
 
-<img src = "C:\Users\user\Desktop\image\start.png" width="70%">
+<img src = ".\image\start.png" width="70%">
 
 
 
 <b>2) 출력</b>
 
-<img src = "C:\Users\user\Desktop\image\print.png" width="70%">
+<img src = ".\image\print.png" width="70%">
 
 
 
 <b>3) 검색</b>
 
-<img src = "C:\Users\user\Desktop\image\search.png" width="70%">
+<img src = ".\image\search.png" width="70%">
 
 
 
 <b>4) 수정</b>
 
-<img src = "C:\Users\user\Desktop\image\replace.png" width="70%">
+<img src = ".\image\replace.png" width="70%">
 
 
 
 <b>5) 종료</b>
 
-<img src = "C:\Users\user\Desktop\image\end.png" width="70%">
+<img src = ".\image\end.png" width="70%">
 
 
 
